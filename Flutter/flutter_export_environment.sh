@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/wortis/Downloads/flutter-2"
-export "FLUTTER_APPLICATION_PATH=/Users/wortis/Downloads/Wortispay_v2-Design_Polo_Rosnelle/Wortispay_v2-Design_Polo_Rosnelle/wortispay_v2_design_polo_rosnelle"
+export "FLUTTER_APPLICATION_PATH=/Users/wortis/Documents/Workspace/FLutter Poject/test_apk"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
